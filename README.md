@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Olawale [(Wale)](wale1454.github.io/wale)  - Software Engineer
+I'm [(Wale)](www.olawale.co) Olawale Olowonyo - Software Engineer
 
 
 
@@ -30,6 +30,12 @@ At the moment I am very interested in Python and JavaScript.
 ![Google Cloud Platform](https://img.shields.io/badge/GCP--000000?style=flat&logo=google)
 
 
+#
+
+### Connect With Me
+
+- [Portfolio](https:olawale.co)
+- [LinkedIn](https://www.linkedin.com/in/olowonyoo)
 
 
 
