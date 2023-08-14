@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm [(Wale)](www.olawale.co) Olawale Olowonyo - Software Engineer
+I'm [(Wale)](https://www.olawale.co) Olawale Olowonyo - Software /Cloud Engineer
 
 
 
@@ -34,7 +34,7 @@ At the moment I am very interested in Python and JavaScript.
 
 ### Connect With Me
 
-- [Portfolio](https:olawale.co)
+- [Portfolio](https://www.olawale.co)
 - [LinkedIn](https://www.linkedin.com/in/olowonyoo)
 
 
